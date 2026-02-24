@@ -14,6 +14,7 @@ FactuLingua helps you create professional quotes and invoices in minutes, calcul
 🪟 Windows
 Download:  
 https://github.com/factulinguacom-png/factulingua/releases/download/v1.0.2/FactuLingua-Setup-1.0.2-Windows-x64.exe
+
 🐧 Linux
 Download:  
 https://github.com/factulinguacom-png/factulingua/releases/download/v1.0.2/factulingua_1.0.2_amd64.deb
