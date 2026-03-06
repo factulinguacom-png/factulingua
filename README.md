@@ -13,16 +13,16 @@ FactuLingua helps you create professional quotes and invoices in minutes, calcul
 
 🪟 Windows
 Download:  
-https://github.com/factulinguacom-png/factulingua/releases/download/v1.0.4/FactuLingua-Setup-1.0.4-Windows-x64.exe
+https://github.com/factulinguacom-png/factulingua/releases/download/1.0.4/FactuLingua-Setup-1.0.4-Windows-x64.exe
 
 🐧 Linux
 Download:  
-https://github.com/factulinguacom-png/factulingua/releases/download/v1.0.4/factulingua_1.0.4_amd64.deb
+https://github.com/factulinguacom-png/factulingua/releases/download/1.0.4/factulingua_1.0.4_amd64.deb
 
 - 📱 Android:
 https://play.google.com/store/apps/details?id=com.factulingua.mobile
 
-https://github.com/factulinguacom-png/factulingua/releases/download/v1.0.4/factulingua-1.0.11+1011-android.apk
+https://github.com/factulinguacom-png/factulingua/releases/download/1.0.4/factulingua-1.0.11+1011-android.apk
 
 ---
 
@@ -30,7 +30,7 @@ https://github.com/factulinguacom-png/factulingua/releases/download/v1.0.4/factu
 
 Get the latest desktop version from:
 
-➡️ https://github.com/factulinguacom-png/factulingua/releases/tag/v1.0.4
+➡️  https://github.com/factulinguacom-png/factulingua/releases/tag/1.0.4
 
 ---
 
