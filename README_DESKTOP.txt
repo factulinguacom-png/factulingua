@@ -2,7 +2,7 @@ FactuLingua Desktop – Read Me
 
 Product name: FactuLingua Desktop
 Vendor: FactuLingua
-Version: 1.0.2
+Version: 1.0.4
 
 1. Overview
 FactuLingua Desktop is a professional application for managing invoices,
