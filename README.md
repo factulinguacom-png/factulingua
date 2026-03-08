@@ -22,7 +22,6 @@ https://github.com/factulinguacom-png/factulingua/releases/download/1.0.4/factul
 - 📱 Android:
 https://play.google.com/store/apps/details?id=com.factulingua.mobile
 
-https://github.com/factulinguacom-png/factulingua/releases/download/1.0.4/factulingua-1.0.11+1011-android.apk
 
 ---
 
